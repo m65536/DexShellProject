@@ -10,3 +10,4 @@ order-*.properties.lock
 /conf/
 /disconf/
 p-trade-oc.iml
+.idea
