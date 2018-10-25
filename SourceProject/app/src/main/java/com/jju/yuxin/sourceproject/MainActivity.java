@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         TextView tv_content = new TextView(this);
-        tv_content.setText("I am Source Apk");
+        tv_content.setText("I am Source Apk 4333333333333333333333333333I am Source Apk 4333333333333333333333333333I am Source Apk 4333333333333333333333333333I am Source Apk 4333333333333333333333333333I am Source Apk 4333333333333333333333333333");
         tv_content.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View arg0) {
