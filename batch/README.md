@@ -1,6 +1,8 @@
 
 * mac apktool : https://blog.csdn.net/yanzi1225627/article/details/48215549
 
+* https://blog.csdn.net/jiangwei0910410003/article/details/48415225/
+
 * apktool 使用
 ```
 APK文件的解包
