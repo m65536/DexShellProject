@@ -14,6 +14,10 @@ public class BatchApplication {
 
 
     public static void main(String[] args) throws AndrolibException, IOException, DirectoryException {
+
+        Process p = Runtime.getRuntime().exec("java -version");
+
+
         logger.info("main started!");
 
         File inFile = new File("D:\\adobe.apk");

@@ -52,8 +52,8 @@
     <root>
         <level value="info"/>
         <appender-ref ref="stdout"/>
-        <appender-ref ref="infoLog"/>
-        <appender-ref ref="warnLog"/>
-        <appender-ref ref="errorLog"/>
+        <!--<appender-ref ref="infoLog"/>-->
+        <!--<appender-ref ref="warnLog"/>-->
+        <!--<appender-ref ref="errorLog"/>-->
     </root>
 </log4j:configuration>
